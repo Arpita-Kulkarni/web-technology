@@ -1,0 +1,31 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<?xml-stylesheet type="text/css" href="stylecss.css"?>
+<students>
+<student>
+	<name>ARPITA KULKARNI</name>
+	<age>7th Sem</age>
+	<usn>4VV16CS013</usn>
+	<year>	2016</year>
+	<branch>	CSE</branch>
+	<email>arpita@gmail.com</email>
+	<college>	Vidyavardhaka College of Engineering Mysore	</college>
+</student>
+<student>
+	<name>CHAITHRA</name>
+	<age>	7th Sem</age>
+	<usn>4VV16CS022	</usn>
+	<year>2016</year>
+	<branch>CSE</branch>
+	<email>	chaithra9482@gmail.com	</email>
+	<college>	Vidyavardhaka College of Engineering Mysore	</college>
+</student>
+<student>
+	<name>AMULYA</name>
+	<age>7th Sem</age>
+	<usn>4VV16CS006</usn>
+	<year>2016</year>
+	<branch>CSE</branch>
+	<email>amulyakj03@gmail.com</email>
+	<college>	Vidyavardhaka College of Engineering Mysore</college>
+</student>
+</students>
